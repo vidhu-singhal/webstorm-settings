@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log('%c$object$: ', 'background: #222; color: #bada55', $END$$object$); // tslint:disable-line:no-console // TODO:vsinghal - Only for debugging, remove this before commit" description="console.log with tsline:disable-line" toReformat="false" toShortenFQNames="true">
+    <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.14.1" last-modified="1543468618000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="SettingsSearchHistory" value="repo&#10;package&#10;synch&#10;imports&#10;organize" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="C:/Dev/projects/lendfast-html5-master&#10;C:/Dev/projects/lendfast-html5&#10;C:/Users/vidhusinghal/Downloads/settings.zip" />
+    <property name="file.gist.reindex.count" value="62642" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="selected.color.option.type" value="GUTTER_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
