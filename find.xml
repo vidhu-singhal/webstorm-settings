@@ -20,5 +20,6 @@
     <mask>*rout*</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>asset*</mask>
   </component>
 </application>
