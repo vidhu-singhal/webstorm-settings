@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -11,7 +12,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.json</mask>
     <mask>*entity.ts</mask>
     <mask>en.json</mask>
     <mask>*.spec.ts</mask>
@@ -20,5 +20,6 @@
     <mask>*.html</mask>
     <mask>*rout*</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
