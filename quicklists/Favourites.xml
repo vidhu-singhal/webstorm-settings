@@ -1,0 +1,4 @@
+<list display="Favourites">
+  <action id="Annotate" />
+  <action id="RenameElement" />
+</list>
