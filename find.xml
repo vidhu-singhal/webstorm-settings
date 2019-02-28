@@ -30,5 +30,6 @@
     <mask>*.service.ts</mask>
     <mask>*.ts</mask>
     <mask>*json</mask>
+    <mask>*reducer*</mask>
   </component>
 </application>
