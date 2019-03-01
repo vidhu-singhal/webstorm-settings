@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,7 +20,6 @@
     <mask>*component.ts</mask>
     <mask>*.html</mask>
     <mask>*rout*</mask>
-    <mask>*.json</mask>
     <mask>asset*</mask>
     <mask>*.spec.ts</mask>
     <mask>service.ts</mask>
@@ -28,5 +27,6 @@
     <mask>*json</mask>
     <mask>*reducer*</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
