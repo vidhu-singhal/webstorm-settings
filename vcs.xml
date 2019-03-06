@@ -3,4 +3,7 @@
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="SHOW_DIFF_PREVIEW" value="true" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
+  </component>
 </application>
